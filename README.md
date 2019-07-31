@@ -1,4 +1,4 @@
-## Welcome to sri sathya sai baba home
+## Welcome to sri sathya sai Baba home
 
 You can use the [editor on GitHub](https://github.com/soligallavinaykumar/sri-sathya-sai-baba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# about baba
+## Donations
+### visting timings for Baba
 
 - Bulleted
 - List
